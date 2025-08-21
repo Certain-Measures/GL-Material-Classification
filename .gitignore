@@ -2,3 +2,4 @@
 *.ply
 *.glb
 *.env
+*.pth
